@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-json-template",
+  "version": "1.0.0",
+  "description": "A library for filling dynamic JSON data into HTML templates.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "JSON",
+    "template",
+    "dynamic",
+    "HTML"
+  ],
+  "author": "Abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "papaparse": "^5.4.1",
+    "xlsx": "^0.18.5"
+  }
+}
